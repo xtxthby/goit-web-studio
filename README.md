@@ -1,1 +1,1 @@
-# goit-web-studio
+# web-studio
